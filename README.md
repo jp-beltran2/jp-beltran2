@@ -1,4 +1,6 @@
-### Olá, eu sou 🧠 João Pedro Beltran 🧠
+### Olá, eu sou 🧑‍🎓 João Pedro Beltran 🧑‍🎓
+- CONTA CRIADA E ADMINISTRADA POR jp-beltran.
+- CONTA DE ESTUDANTE
 
 [![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jp_beltran._/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-beltran-712838241/)
