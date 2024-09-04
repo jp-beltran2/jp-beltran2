@@ -1,5 +1,5 @@
 ### Olá, eu sou 🧑‍🎓 João Pedro Beltran 🧑‍🎓
-- CONTA CRIADA E ADMINISTRADA POR jp-beltran.
+- CONTA CRIADA E ADMINISTRADA POR [jp-beltran](https://github.com/jp-beltran)
 - CONTA DE ESTUDANTE
 
 [![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jp_beltran._/)
